@@ -1,6 +1,7 @@
 # Gym Website
 
 ## Description
+decodelabs _tasks 1 
 This is a responsive Gym Website built using HTML, CSS, and JavaScript. It helps users explore gym facilities, trainers, membership plans, and contact details through a clean and modern interface.
 
 ## Technologies Used
